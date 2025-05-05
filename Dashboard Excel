@@ -1,1 +1,51 @@
+This Dynamic Retail Dashboard built in Microsoft Excel visualizes Walmart’s retail performance using key metrics and interactive visuals. It is designed for data-driven decision-making and retail performance monitoring.
 
+✅ Key Features: KPIs Displayed:
+
+💰 Total Sales: $12.64M
+
+📈 Total Profit: $1.47M
+
+📦 Total Quantity Sold: 178,312 units
+
+🧾 Total Orders: 51,290
+
+📊 Average Profit Margin: 11.61%
+
+image
+
+Category & Segment Insights:
+
+Pie and donut charts to show order distribution across Categories (Furniture, Office Supplies, Technology) and Customer Segments (Consumer, Corporate, Home Office).
+
+image
+
+Top & Bottom Sub-Categories:
+
+Bar charts highlighting Top 5 and Bottom 5 sub-categories by number of orders.
+
+image
+
+Global Profit Distribution:
+
+Map visualization showing regional profit margins across countries.
+
+image
+
+Sales vs Profit Scatterplot:
+
+Clear correlation insights for strategic sales planning.
+
+Interactive Filters:
+
+Slicers for Category, Segment, Country, Market, and Region for dynamic data exploration.
+
+Tools Used: Microsoft Excel
+
+PivotTables, Slicers, Charts, Conditional Formatting
+
+Excel Formulas for dynamic KPIs
+
+Purpose: This dashboard helps business users, analysts, and stakeholders quickly interpret retail performance and customer behavior trends, with visually compelling and interactive elements. image
+
+This dashboard offers a clear and interactive way to monitor Walmart's retail performance. By visualizing key metrics and enabling dynamic filtering, it helps stakeholders make informed business decisions. It's an excellent example of how Excel can be used for impactful data analysis and reporting without the need for complex tools.
